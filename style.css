@@ -1,0 +1,35 @@
+body{
+    /* min-height: 100vh; */
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 10vh;
+}
+
+a{
+    color: #e7bdf9fe;
+}
+
+th, td{
+    padding: 8px;
+    text-align: center;
+}
+
+table, th, tbody{
+    border: 1px solid #f7e1e1fe;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+th{
+    background-color: #e7bdf9fe;
+}
+
+.text-center{
+    text-align: center;
+    margin-bottom: 20px;
+}
